@@ -1,0 +1,11 @@
+{
+    "name": "OLD-Rocket-Silo",
+    "version": "1.0.0",
+    "title": "OLD Rocket Silo",
+    "author": "MineCamper",
+    "factorio_version": "2.0",
+    "description": "Adds the old rocket silo back to the game.",
+    "dependencies": [
+        "base >= 2.0"
+    ]
+}
